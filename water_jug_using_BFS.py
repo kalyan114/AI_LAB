@@ -1,5 +1,16 @@
 #water jug using bfs...
 
+import os,sys,io,math
+from re import *
+from math import *
+from array import *
+from heapq import *
+from bisect import *
+from functools import *
+from itertools import *
+from statistics import *
+from collections import *
+
 def bfs(a,b,t):
   m={};p=[]
   ok=False
