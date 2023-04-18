@@ -61,9 +61,11 @@ if __name__=='__main__':
   
   
 Input:
+  
 Enter j1,j2 and target:
 5 4 2
 
 Output:
+  
 The path for given data is:
 ( 0 , 0 )=>( 0 , 4 )=>( 5 , 0 )=>( 5 , 4 )=>( 1 , 3 )=>( 2 , 2 )=>( 2 , 0 )
